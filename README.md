@@ -10,21 +10,22 @@
 
 
 #### Convert Raw Data to DataFrame
-![](Images/converted-raw-data_dataframe.png)
+![image](https://github.com/NicPala/Whats-the-weather-like/assets/138820169/03af9e3d-711f-462d-a57c-97329e3e4cb2)
+
 
 Build a series of Scatter Plots to showcase the following relationships:
 
 #### Temperature (F) vs. Latitude
-![](Images/City_Latitude_vs_Max_Temperature.png)
+![City_Latitude_vs_Max_Temperature](https://github.com/NicPala/Whats-the-weather-like/assets/138820169/7aeffeb2-18a8-4a27-ad80-870e2742e779)
 
 #### Humidity (%) vs. Latitude
-![](Images/City_Latitude_vs_Humidity.png)
+![image](https://github.com/NicPala/Whats-the-weather-like/assets/138820169/cce3d383-ab3f-4c09-8329-63c961840405)
 
 #### Cloudiness (%) vs. Latitude
-![](Images/City_Latitude_vs_Cloudiness.png)
+![City_Latitude_vs_Cloudiness](https://github.com/NicPala/Whats-the-weather-like/assets/138820169/0b094922-3356-4ffe-bcd1-c3cc6b95a1f0)
 
 #### Wind Speed (mph) vs. Latitude
-![](Images/City_Latitude_vs_Wind_Speed.png)
+![City_Latitude_vs_Wind_Speed](https://github.com/NicPala/Whats-the-weather-like/assets/138820169/8d7329a8-c7fb-4d5b-92ea-7ed8c154b18d)
 
 
 The final notebook must:
